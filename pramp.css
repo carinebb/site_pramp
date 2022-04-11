@@ -1,0 +1,183 @@
+select {
+    height: -35px;
+    -webkit-border-radius: 0;
+    border: 0;
+    outline: 1px solid white;
+    outline-offset: -1px;
+    color: blue;
+    z-index: 2;
+  }
+  abbr{
+    left: 150px;
+font-weight: 600;}
+    .button {
+        background-color: blue; /* Green */
+        border: none;
+        color: white;
+        padding: 13px 26px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 10px;
+        margin: 2px 1px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+        left: -280px;
+        
+        font-weight: 600;
+      }
+      
+      .button1 {
+        background-color: blue; 
+        color: black; 
+        border: 2px solid white;
+      }
+      
+      .button1:hover {
+        background-color: white;
+        color: black;
+      }
+    
+      p{
+    
+
+font-size: xx-large;
+margin-top: 30px;}
+
+.navbar {
+    width: 100%;
+    background-color: #555;
+    overflow: auto;
+  }
+  
+  .navbar.lien {
+    float: left;
+    padding: 12px;
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .navbar.lien:hover {
+    background-color: #000;
+  }
+  
+  
+  
+  @media screen and (max-width: 500px) {
+    .navbar.lien {
+      float: none;
+      display: block;
+    }
+  }
+  aside{position:absolute;
+      left: 100px;
+    top: 1010px;}
+    .flex-container{display: flex;
+    background-color: white;
+}
+.flex-item{background-color: white;
+width: 510px;
+margin: 10px;
+padding: 20px;
+height: 350px;
+font-size: 50px;}
+.fli{float: left;
+    margin: 0 15px 15px 0px;}
+    .calves{
+        
+        float: left; 
+bottom: -315px;
+left: 100px;
+text-decoration: none;
+font-size: medium;
+color: #000;}
+.offer{
+    
+ 
+bottom: -325px;
+left: 950px;
+font-size: 15px;}
+.google{
+    float: left;
+bottom: -300px;
+left: 100px;
+font-size: xx-small;}
+.txt{font-size: 10px;float: right;}
+.Learn{float: right;
+font-size: 10px;
+text-decoration: none;}
+.how{background-color: lightgrey;padding:20px;
+    
+}
+.numberCircle {
+    border-radius: 50%;
+    border-color: blue;
+    width: 56px;
+    height: 50px;
+    padding: 8px;
+
+    background: white;
+    border: 2px solid blue;
+    color: blue;
+    
+
+    font: 32px Arial, sans-serif;
+}
+.ecrit{font-size: 10px;}
+
+.lesson{font-size: 10px;}
+.ace{font-size: 10px;}
+.flex-item1{background-color: lightgrey;
+    width: 510px;
+    margin: 10px;
+    padding: 20px;
+    height: 350px;
+    font-size: 50px;} 
+    .flex-container1{display: flex;
+        background-color: lightgrey;    }
+        h4{text-align: center;font-weight: 600;} 
+        .Get {text-align: center;
+        font-weight: 600;} 
+        .litterature{text-align: center;}    
+        .para{text-align: center;
+        } 
+        .ave{font-size: 10px ;}
+        .tice{color: #000;}
+        .fa {
+            padding: 10px;
+            font-size: 30px;
+            width: 50px;
+            text-align: center;
+            text-decoration: none;
+            margin: 3px 1px;
+            border-radius: 50%;
+          }
+          
+          .fa:hover {
+              opacity: 0.7;
+          }
+          
+          .fa-facebook {
+            background: white;
+            color: black;
+            border: 2px solid rgba(172, 255, 47, 0.363);
+            font-weight: 800;
+          }
+          
+          .fa-twitter {
+            background: white;
+            color: black;
+            border: 2px solid rgba(172, 255, 47, 0.363);
+            font-weight: 800;
+          }
+          
+          
+          
+          .fa-linkedin {
+            background: white;
+            color: black;
+            border: 2px solid rgba(172, 255, 47, 0.363);
+            font-weight: 800;
+          }
+          
